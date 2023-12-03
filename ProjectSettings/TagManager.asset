@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy01
+  - Spawn
+  - UI_CenterScreen_Dialogue
+  - UI_CenterScreen_Image
+  - Player_AudioSource
+  - UI_Reticle
+  - Grass
+  - HardSurface
+  - JumpScare
+  - EnemyMesh
+  - UI_DialogueBox
+  - Door01
+  - UI_Health
+  - UI_main
+  - UI_Pause_main
+  - UI_QTE
+  - UI_Fade
+  - LevelManager
+  - JumpScare_Enemy01
+  - Enemy01Mesh
+  - UI_Sensitivity
+  - Player_AudioSource_02
+  - Player_AudioSource_Chase
+  - LevelManager02
+  - UI_JumpScare_Raw
+  - UI_TopRight
+  - UI_Crouch
+  - DiaryPuzzle
+  - UI_Lung
+  - Radio_Knob01
+  - Radio_Knob02
+  - UI_Radio
+  - JumpScare_dad
+  - Pause_TopRight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
