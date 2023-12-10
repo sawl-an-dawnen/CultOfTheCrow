@@ -5,10 +5,13 @@ using UnityEngine.Video;
 
 public class Cutscene : MonoBehaviour
 {
+    public float timer = 3f;
+    public string[] destroy;
+
     private GameObject player;
     private VideoPlayer myVideo;
     private SceneLoader loader;
-    public float timer = 3f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +19,13 @@ public class Cutscene : MonoBehaviour
         {
             player = GameObject.FindGameObjectWithTag("Player");
             player.SetActive(false);
+        }
+        catch { }
+        try
+        {
+            foreach (string obj in destroy) {
+                Destroy(GameObject.Find(obj));
+            }
         }
         catch { }
 
