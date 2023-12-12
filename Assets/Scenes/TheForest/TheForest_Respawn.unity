@@ -19768,7 +19768,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2085337195
 Transform:
   m_ObjectHideFlags: 0
@@ -19794,11 +19794,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 26c200aecb38cd743b85a753ba73121d, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b7335cce57edcea46970539f1cd9cdb1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.2
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -20514,7 +20514,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f305c689773f1e045a6e964932f53cec, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e83d1ae3e95e6d946a6cd66e7414e2bf, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -20629,7 +20629,7 @@ MonoBehaviour:
   - C
   - Space
   stunDuration: 5
-  jumpScareSound: {fileID: 8300000, guid: 3bb9171e243a38c4aa0c7f0b10c9c470, type: 3}
+  jumpScareSound: {fileID: 8300000, guid: f6e023e15fde0054591b189ec27381ae, type: 3}
   mesh: {fileID: 634076973}
 --- !u!114 &2137524884
 MonoBehaviour:
@@ -20666,7 +20666,7 @@ MonoBehaviour:
   walkAnimationSpeed: 1
   runAnimationSpeed: 1
   chaseMusic: {fileID: 0}
-  jumpScareClip: {fileID: 8300000, guid: ad38b6ffe42597b4290c5e19fc640a17, type: 3}
+  jumpScareClip: {fileID: 8300000, guid: 11db1e87f31d3164c9722dfaff0a25d5, type: 3}
 --- !u!114 &2137524886
 MonoBehaviour:
   m_ObjectHideFlags: 0
