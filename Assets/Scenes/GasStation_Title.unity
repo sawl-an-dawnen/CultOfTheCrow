@@ -4929,29 +4929,38 @@ MonoBehaviour:
   m_text: 'Game Disclaimer:
 
 
+    This game, "Cult of the Crow," is intended for
+    mature audiences and has been assigned an M (Mature) rating. The content of this
+    game includes depictions of violence and explores adult themes such as suicide
+    and ritual human sacrifice. Player discretion is advised.
 
-    This game, "Cult of the Crow," is rated M for
-    mature audiences due to its depiction of violence and explicit blood and gore.
-    The themes explored in the game include sensitive topics such as suicide and
-    ritual sacrifice, making it unsuitable for younger audiences.
+    
 
+    Please
+    be aware that "Cult of the Crow" originated as a college project and was initially
+    created for educational purposes only. The original build may have included copyrighted
+    material, but for this version of the game, all such content has been replaced
+    with free and public domain material.
 
+    
 
-    Please be
-    advised that "Cult of the Crow" contains copyrighted material and is intended
-    solely for educational purposes within the classroom setting. Distribution beyond
-    this context is strictly prohibited.
+    By choosing to play "Cult
+    of the Crow," you acknowledge and accept the mature content present in the game.
+    The creators of "Cult of the Crow" do not endorse or encourage real-world violence,
+    self-harm, or any illegal activities depicted in the game. The inclusion of mature
+    themes is intended for storytelling and artistic expression only.
 
+    
 
+    This
+    disclaimer serves as a notice of the game''s intended audience, origins, and
+    content modifications, and it is provided to ensure that players are informed
+    before engaging with "Cult of the Crow."
 
-    For optimal testing experience, judges
-    are recommended to utilize the level select menu, considering the game''s duration,
-    which exceeds 10 minutes. Suggested levels for assessment include the maze or
-    forest.
+    
 
-
-
-    Thank you for your understanding. Enjoy the game.'
+    Thank you for your understanding.
+    Enjoy the game.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4978,7 +4987,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 99.3
+  m_fontSize: 92.3
   m_fontSizeBase: 36.36
   m_fontWeight: 400
   m_enableAutoSizing: 1
