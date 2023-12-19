@@ -21750,6 +21750,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 3507356577470411952, guid: d33bd6a9ebaa49446977b52ddbc718c0,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: ceca7afc91fa9864c93715f49661da65, type: 3}
     - target: {fileID: 3702570716569642489, guid: d33bd6a9ebaa49446977b52ddbc718c0,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -44428,7 +44433,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4e2aecb7929f4b346ac92f9efce9ef3b, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 9c523e60edbd88947a52c7b84c88afca, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
